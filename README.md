@@ -16,6 +16,9 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+
+<img width="1919" height="1020" alt="560143393-2f6f54f3-3ce7-49dd-8c17-77752e6affdc" src="https://github.com/user-attachments/assets/3f056f81-8572-45af-8d96-032998a1042a" />
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -26,12 +29,18 @@ PROCEDURE:
 2. The Regulated power supply voltage is increased in steps.
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
-4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+
 OBSERVATIONS:
+![obv 1-1](https://github.com/user-attachments/assets/abcdea64-f936-45c1-b1d3-4e28eaef3847)
+![obv 2](https://github.com/user-attachments/assets/9a18845f-2aa3-4db1-9871-68b06fbf84ab)
+
 
 REGULATION CHARACTERISTICS:
+<img width="1027" height="664" alt="ex 5" src="https://github.com/user-attachments/assets/9babf1aa-0afd-457e-9932-21faa1894bb6" />
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="1249" height="649" alt="ex 5 2" src="https://github.com/user-attachments/assets/df28707a-6a7f-4cd7-ac2e-22959ceaaa64" />
 
 PRECAUTIONS:
 
